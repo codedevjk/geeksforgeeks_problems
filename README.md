@@ -4,7 +4,7 @@ GeeksforGeeks problems</h1>
 
 Solutions for following problems available on GeeksforGeeks platform.
 <br/>
-1.Create Check if two arrays are equal or not.
+1.Check if two arrays are equal or not.
 <br/>
 2.Height of a Tree.
 <br/>
