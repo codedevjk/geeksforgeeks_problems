@@ -2,4 +2,8 @@
 GeeksforGeeks problems</h1>
 <br/>
 
-Solutions for following problema available on GeeksforGeeks platform.
+Solutions for following problems available on GeeksforGeeks platform.
+1.Create Check if two arrays are equal or not.
+2.Height of a Tree.
+3.Preorder traversal.
+4.Sum Tree.
